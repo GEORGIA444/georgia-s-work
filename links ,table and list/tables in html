@@ -7,13 +7,13 @@
             
             <body>
                 
-    <p> <table>broder="5"
+     <table>border= "5" <p>
      </tr>
          <th>NAME
          <th> SCHOOL
          <th> GRADE
-        </tr>
-                <tr>    
+         </tr>
+                <tr></tr>   
         <td> Alice
         <td>Georgia 
         <td>Gigi
@@ -34,6 +34,9 @@
             <td>GRADE9
             <td> GRADE 9
                 <p>
+                
+                
+
 
         
         </html>
