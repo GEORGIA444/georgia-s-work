@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> tables in html</title>
+    </head>
+    
+            
+            <body>
+                
+    <p> <table>broder="5"
+     </tr>
+         <th>NAME
+         <th> SCHOOL
+         <th> GRADE
+        </tr>
+                <tr>    
+        <td> Alice
+        <td>Georgia 
+        <td>Gigi
+        <td>Abby
+        <td>Melani
+        </tr>
+        <tr>
+            <td>king's College Budo
+            <td>king's College Budo
+            <td>king's College Budo
+            <td>king's College Budo
+            <td>king's College Budo
+            </tr>
+                <tr>
+            <td>  GRADE9
+            <td>GRADE9
+            <td>GRADE9
+            <td>GRADE9
+            <td> GRADE 9
+                <p>
+
+        
+        </html>
+
+    
