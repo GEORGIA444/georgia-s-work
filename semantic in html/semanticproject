@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> semantic project <title> 
+        <head> 
+            <body>
+                <header>
+                    <nav>
+                        <ul>
+                            <li><a href="#home"></a></li>
+                            <li><a href="#about"></a></li>
+                            <li><a href="#contact"></a></li>
+                        </ul>
+                    </nav>
+                </header>
+                <section>
+                    <article>
+                        <h1> why i love music</h1>
+                        <p> the reason i love music is that because it has a way takes away the pain that i feel with the sorrow that just burrdens on my heart and even when i share it just seems not to got away but with music it all disappears like it had never been there my best song is <mark>God's not done with you</mark>.
+                        </p>
+                    </article>
+                    <figure>
+                        <img src="wells.jpg">
+                        <audio controls>
+                            <source src="Tauren Wells - God's Not Done With You (Official Music Video).mp3">
+                        </audio>
+                        <video controls>
+                            <source src="Tauren Wells - God's Not Done With You (Official Music Video) copy.mp4">
+                        </video>
+                        <figcaption> God's not done with you by Tauren Wells</figcaption>
+                    </figure>
+                </section>
+                <footer>
+                    <p>&copy; created by georgia 9th september 2024</p>
+                </footer>
+            </body>
+    <html> 
