@@ -1,0 +1,12 @@
+<DOCTYPE HTML>
+<html> 
+    <head> 
+        <title> Max Number</title>
+    </head>
+    <body>
+        <h1>The max number is: {{max_num}}</h1>
+
+    </body>
+    
+        
+    <html>
