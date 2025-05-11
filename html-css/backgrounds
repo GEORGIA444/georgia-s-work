@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>backgrounds</title>
+</head>
+<body>
+    <style>
+        body{
+            background-image:url("name.png");
+            background-color: blue;
+            background-position: top right;
+            background-attachment: fixed;
+        }
+        </style>
+</body>
+</html>
