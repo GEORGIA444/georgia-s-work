@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: blue;
+}
+ul li::before{
+    content: "🚀";
+}
+p::first-letter{
+    font-size: 100%;
+    color: yellowgreen;
+}
+a:hover{
+    color: goldenrod;
+}
+a::before{
+    content:"😁" ;
+}
+
+
+
+
+
