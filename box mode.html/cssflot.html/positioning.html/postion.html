@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>positioning</title>
+    <style>
+        div{
+            border: 2px solid gold;
+            right: 30px;
+        }
+        div.absolute{
+            position: absolute;
+            right: 30px;
+        }
+        div.relative{
+            position: relative;
+        }
+        div.sticky{
+            position: sticky;
+        }
+        div.fixed{
+            position: fixed;
+            right: 20px;
+            top: 0;
+        }
+    </style>
+</head>
+<body>
+    <h2>CSS poitioning</h2>
+    <div>Div Element with no positioning</div>
+    <div class="sticky">Div with sticky positioning property</div>
+    <div class="relative">Div with relative positioning</div>
+    <div class="absolute">Div with absolute property</div>
+    <div class="fixed">Div with fixed positioning</div>
+</body>
+</html>
